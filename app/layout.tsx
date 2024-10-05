@@ -14,7 +14,7 @@ weight: "100 900",
 });
 
 export const metadata: Metadata = {
-  title: "Create Next App",
+  title: "Login Page",
   description: "Login page using nextjs",
 };
 
@@ -33,3 +33,6 @@ export default function RootLayout({
     </html>
   );
 }
+
+
+
